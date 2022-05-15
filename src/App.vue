@@ -11,6 +11,9 @@ export default {
   name: 'App',
   components: {
     TodoApp
+  },
+  metaInfo: {
+    title: 'Awei\'s Todo App',
   }
 }
 </script>
